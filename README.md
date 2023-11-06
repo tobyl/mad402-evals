@@ -37,3 +37,10 @@ In addition to the rubric for each evaluation, I will also be looking for eviden
 The project brief is designed to mirror the real world for what you might receive before the planning phase of a project.
 
 [Project brief](/project-brief.md)
+
+## Relevant resources
+
+- [Dribbble](https://dribbble.com)
+- [Five principles of visual design](https://www.nngroup.com/articles/principles-visual-design/)
+- [Ten usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+  

@@ -17,6 +17,8 @@ At each stage I will provide feedback and we will discuss opportunities and obst
 - design/ui/ux research (choose 2 - 3 mockups on dribbble to use as design inspiration)
 - user personas (who is the target audience? who is the ideal user for this app?)
 
+[More on the case study](/case-study.md)
+
 ### Design project #2
 
 - initial sketches

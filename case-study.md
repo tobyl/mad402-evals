@@ -17,10 +17,13 @@ Your goal for the case study will be to research existing apps and prior art for
 The rubric for the case study is as follows:
 
 - **Depth/quality of research**
-  - Student has collected valuable data that will help them as they build out the wireframes. 
+  - Student has collected valuable data that will help them as they build out the wireframes.
+    
 - **Understanding of the topic**
   - Student understands the subject matter, and has collected relevant data.
+    
 - **Critical analysis**
   - Student evaluates the design, UI and UX with clear goals in mind.
+    
 - **Presentation**
   - The case study is well written and well presented.

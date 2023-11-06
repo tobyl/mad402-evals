@@ -30,3 +30,8 @@ For the case study, we will conduct research, collect data and develop a plan fo
 
 In addition to the rubric for each evaluation, I will also be looking for evidence that you are utilizing the skills learned in the semester as you move throughout the various stages. I expect to see clear, tangible connections between each of the three evaluations. Your wireframe in the design project should contain clear references to your findings from the case study. Your hi-fidelity mockups in the final practical exam should be a clear evolution of the wireframe created in the design project.
 
+## Project brief
+
+The project brief is designed to mirror the real world for what you might receive before the planning phase of a project.
+
+[Project brief](/brief.md)

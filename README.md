@@ -24,7 +24,7 @@ For the case study, we will conduct research, collect data and develop a plan fo
 
 - high fidelity mockup
 - interactions
-- 
+- variables
 
 ## Evaluation metrics
 

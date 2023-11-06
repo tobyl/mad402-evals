@@ -34,4 +34,4 @@ In addition to the rubric for each evaluation, I will also be looking for eviden
 
 The project brief is designed to mirror the real world for what you might receive before the planning phase of a project.
 
-[Project brief](/brief.md)
+[Project brief](/project-brief.md)

@@ -4,7 +4,9 @@ There are three remaining evaluations left in the semester (case study, design p
 
 We will be moving through the various stages, with the evaluations as the final step in each stage.
 
-For the case study, we will conduct research, collect data and develop a plan for our wireframes. In the design project, we'll wireframe the app based upon our findings from the case study. Finally, in the practical exam we'll build hi-fidelity mockups for our app with the wireframe as the template. 
+For the case study, we will conduct research, collect data and develop a plan for our wireframes. In the design project, we'll wireframe the app based upon our findings from the case study. Finally, in the practical exam we'll build hi-fidelity mockups for our app with the wireframe as the template.
+
+At each stage I will provide feedback and we will discuss opportunities and obstacles.
 
 ## The three stages
 

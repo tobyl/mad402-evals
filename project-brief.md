@@ -21,8 +21,8 @@ For example:
 Features:
 
 - view consolidated financial data
-- view financial transactions
-- see investment information
+- view financial transactions (debits, credits, purchases, refunds)
+- see investment information (RRSP, TFSA, stocks)
 - see mortgage balance, rate and relevant projected data
 - transfer money between accounts/investments
 - pay bills
@@ -37,22 +37,20 @@ Features:
 - investment portfolio
 - debtors
 
-
-
 the stages:
 
-- Case study
-  - topic research (make sure you understand the topic!)
-  - prior art (what apps out there are similar, how do they work, what is the value proposition, how do they make money?)
-  - design/ui/ux research (choose 2 - 3 mockups on dribbble to use as design inspiration)
-  - user personas (who is the target audience? who is the ideal user for this app?)
+- **Case study**
+  - Topic research (make sure you understand the topic!)
+  - Prior art (what apps out there are similar, how do they work, what is the value proposition, how do they make money?)
+  - Design/ui/ux research (choose 2 - 3 mockups on dribbble to use as design inspiration)
+  - User personas (who is the target audience? who is the ideal user for this app?)
 
-- Design project #2
-  - initial sketches
-  - full wireframe
+- **Design project #2**
+  - Initial sketches
+  - Full wireframe
 
-- Practical exam #2 
-  - high fidelity mockup
-  - interactions
-  - 
-
+- **Practical exam #2** 
+  - High fidelity mockup
+  - Interactions
+  - Variables
+  - Simple animations

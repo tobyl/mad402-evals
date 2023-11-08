@@ -6,17 +6,20 @@ Your goal for the case study will be to research existing apps and prior art for
 
 - Screenshots from around 2 or 3 existing finance apps that will serve as the design inspiration for what you eventually build.
 - Some notes on features or UI/UX conventions you like and plan to use.
-- Some thoughts on existing conventions. Is there a pattern all apps seem to follow? Is there a design or UI that you think will work that you don't see in existing apps? Why do you think that is?
+- Some thoughts on existing conventions. Are there common patterns among finance apps? Is there a design or UI that you think will work that you don't see in existing apps? Why do you think that is?
 - You don't need to build out full [user personas](https://next-edu-tobyl.vercel.app/weeks/08), but you should provide some information on potential users. What is the target audience for the app? Who is the ideal user for this app? What features might be appealing to which users?
+- Think about ways to display financial data. How can we most clearly and succinctly display different types of financial data? How can we collect data from users when we need it (transfers, deposits, etc.)?
 - A conclusion, summarising what you think will make the app successful, some detail on obstacles and opportunities and any areas you plan to focus on when building the wireframes.
 
 I won't be counting words, but your written piece should be around 2 - 3 pages.
 
 ## Some things to bear in mind
 
+- Prefer objective fact over opinion.
 - Make sure you are always focused on the user! How easily can the user accomplish the various tasks and objectives? What might users not understand, and how can you help them?
 - Avoid overly general or subjective statements. Don't write that "the app is minimal", explain how "there is a clear focus on each page guiding the user". Don't write that "I like the investments page", write that "the investments page is clearly laid out, with only relevant data presented to the user".
-- Use bullet points in addition to written paragraphs. 
+- Use bullet points in addition to written paragraphs where appropriate.
+- Remember - the case study sets you up for success when you build out the wireframes. Think about the notes, data and ideas that will help you in the following phases!
 
 ## Evaluation
 

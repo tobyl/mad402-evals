@@ -12,6 +12,8 @@ At each stage I will provide feedback and we will discuss opportunities and obst
 
 ## The three stages
 
+Each stage represents one evaluation:
+
 ### Case study
 
 - topic research (make sure you understand the topic!)

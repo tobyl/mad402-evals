@@ -47,3 +47,4 @@ The project brief is designed to mirror the real world for what you might receiv
 - [Dribbble](https://dribbble.com)
 - [Five principles of visual design](https://www.nngroup.com/articles/principles-visual-design/)
 - [Ten usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+- [User personas and making user-centric apps](https://next-edu-tobyl.vercel.app/weeks/08)

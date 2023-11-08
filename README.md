@@ -1,6 +1,6 @@
 ![SPENDR](spendr-logo.svg)
 
-![Justin Bieber](spendr-logo.svg)
+![Justin Bieber](Justin_Bieber_in_2015.jpg)
 
 # MAD402 remaining evaluations
 

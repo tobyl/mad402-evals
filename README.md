@@ -1,3 +1,5 @@
+![SPENDR](spendr-logo.svg)
+
 # MAD402 remaining evaluations
 
 There are three remaining evaluations left in the semester (case study, design project, practical exam), and they will all focus on the same subject matter.

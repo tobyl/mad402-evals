@@ -1,7 +1,5 @@
 ![SPENDR](spendr-logo.svg)
 
-![Justin Bieber](Justin_Bieber_in_2015.jpg)
-
 # MAD402 remaining evaluations
 
 There are three remaining evaluations left in the semester (case study, design project, practical exam), and they will all focus on the same subject matter.

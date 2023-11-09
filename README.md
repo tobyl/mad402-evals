@@ -55,6 +55,8 @@ The project brief is designed to mirror the real world for what you might receiv
 
 | Assignment  | Release date | Due date |
 | ------------- | ------------- | ------------- |
-| Case study #2  | Wednesday, November 8, 2023  | Tuesday, November 14, 2023  |
-| Design project #2  | TBA  | TBA  |
-| Practical exam #2  | TBA  | TBA  |
+| Case study #2  | Wednesday, November 8 | Tuesday, November 14 (11:59pm)  |
+| Design project #2  | Wednesday, November 15 | Sunday, December 3 (11:59pm)  |
+| Practical exam #2  | Monday, December 4  | Monday December 11 (11:59pm)  |
+
+Please note that I will be away on Monday and Wednesday of week #12 (Monday 20th and Wednesday 22nd of November), both classes will be open labs to work on assignments. 

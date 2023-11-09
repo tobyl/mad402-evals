@@ -50,3 +50,11 @@ The project brief is designed to mirror the real world for what you might receiv
 - [Five principles of visual design](https://www.nngroup.com/articles/principles-visual-design/)
 - [Ten usability heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
 - [User personas and making user-centric apps](https://next-edu-tobyl.vercel.app/weeks/08)
+
+## Dates
+
+| Assignment  | Release date | Due date |
+| ------------- | ------------- | ------------- |
+| Case study #2  | Wednesday, November 8, 2023  | Tuesday, November 14, 2023  |
+| Design project #2  | TBA  | TBA  |
+| Practical exam #2  | TBA  | TBA  |

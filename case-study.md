@@ -8,6 +8,7 @@ I recommend thinking about the case study in terms of "what research, thinking o
 - Actions (what can a user actually "do" in the app? what actions might we allow them to take, what actions shouldn't they be able to take? Why?)
 - Transaction types (what financial transactions require which types of data and interactions? For example, to send money to someone, we need at least their name and contact information, the amount to send and the source to send from)
 - Specific UI paradigms (which UI paradigms work well for finance apps? or for specific transactions, such as sending or receiving money?)
+- Hierarchy/structure (what is most important to the user? what will they interact with most frequently?)
 
 ## Deliverables
 

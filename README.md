@@ -53,6 +53,8 @@ The project brief is designed to mirror the real world for what you might receiv
 
 ## Dates
 
+THese are the relevant dates for all three evaluations:
+
 | Assignment  | Release date | Due date |
 | ------------- | ------------- | ------------- |
 | Case study #2  | Wednesday, November 8 | Tuesday, November 14 (11:59pm)  |

@@ -53,7 +53,7 @@ The project brief is designed to mirror the real world for what you might receiv
 
 ## Dates
 
-THese are the relevant dates for all three evaluations:
+These are the relevant dates for all three evaluations:
 
 | Assignment  | Release date | Due date |
 | ------------- | ------------- | ------------- |

@@ -45,3 +45,7 @@ The rubric for the case study is as follows:
     
 - **Presentation**
   - The case study is well written and well presented.
+
+## Submission
+
+You should save your case study on a public GitHub repo and add the link to your Blackboard submission.

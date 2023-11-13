@@ -2,6 +2,13 @@
 
 Your goal for the case study will be to research existing apps and prior art for the fictional app we will be building called SPENDR.
 
+I recommend thinking about the case study in terms of "what research, thinking or evaluation would help me best in the wireframe phase". For example, you might consider:
+
+- Data (what data might be displayed in various areas of the app and how)
+- Actions (what can a user actually "do" in the app? what actions might we allow them to take, what actions shouldn't they be able to take? Why?)
+- Transaction types (what financial transactions require which types of data and interactions? For example, to send money to someone, we need at least their name and contact information, the amount to send and the source to send from)
+- Specific UI paradigms (which UI paradigms work well for finance apps? or for specific transactions, such as sending or receiving money?)
+
 ## Deliverables
 
 - Screenshots from around 2 or 3 existing finance apps (from Dribbble, real-world apps or around the web) that will serve as the design inspiration for what you eventually build.

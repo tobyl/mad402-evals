@@ -2,11 +2,11 @@
 
 The goal of the Design Project is to create visual wireframes for the SPENDR app based upon your research in the case study.
 
-**REMEMBER!** There should be clear, traceable connections from your case study to your wireframes. 
+## IMPORTANT
 
-**IMPORTANT:** Do not submit via Blackboard! Drag your wireframe into the shared team folder called "Design Project #2".
-
-**IMPORTANT:** This will be a mobile web app, so you can use one of the mobile sized frames in Figma, no need for a desktop or tablet mockup.  
+- There should be clear, traceable connections from your case study to your wireframes. 
+- Do not submit via Blackboard! Drag your wireframe into the shared team folder called "Design Project #2".
+- This will be a mobile web app, so you can use one of the mobile sized frames in Figma, no need for a desktop or tablet mockup.  
 
 ## About the project
 
@@ -29,6 +29,10 @@ To answer this question, always consider the two following points:
 
 In short, I would not expect to see views that represent the entire process of adding a mortgage to the app, but I would expect to see all relevant views for a money transfer including contact management, transfer history and the transfer process.
 
+## Common pages
+
+Your app should include a home page (a dashboard page, not the app splash screen) and some other common pages, such as profile and settings. However, these can be brief - no need for pages showing every aspect of user management or settings. Consider the primary goal of the wireframe - your boss is probably already familiar with the process users will follow to reset their password. 
+
 The wireframe should be:
 
 - Low fidelity - focus on layout and perceived functionality
@@ -40,21 +44,27 @@ The wireframe should be:
 [Example wireframe #1](https://sketch-cdn.imgix.net/assets/blog/wireframe-medium%402x.png?ixlib=rb-4.1.0&fit=max&w=1920&q=95&auto=format&fm=png&s=e7f208f93a9cc556690fc33d85c51685)
 [Example wireframe #2](https://visme.co/blog/wp-content/uploads/2022/01/mobile-app-wireframe-example.jpg)
 
-## What to include
+## To get the best possible grade
 
-To understand what should be included, you should consider the real-world use case. Your boss or client needs to understand the general flow of the app, how users will navigate around the app and how the various features of the app will be represented.
-
-The goal of the wireframe is **NOT** to document every possible view or to highlight every possible piece of functionality.
-
-
+- Focus on the user - what design/UI makes the data the most accessible for the user?
+- Consider the data - what is the optimal way to display data? How can data be aggregated for the benefit of the user?
+- Look for opportunities - financial data can be boring lists, charts or graphs - is there a better way?
+- Consider the potential obstacles - large amounts of data can be overwhelming. Financial transactions can be complex. How can we solve or minimize these and other obstacles?
+- Use real data! You don't need to go as far as calculating interest to display correct amounts, but you should be using real numbers and real copy as much as possible.
+- **COME TO CLASS**! If you're stuck on something, I can provide feedback and make suggestions. If you're not sure you're focusing on the right areas, I can clarify. If your wireframe is missing something important, I will let you know.
 
 ## Rubric
 
-- Understanding of the subject
-  - Student is capable of creating strong wireframes that communicate clearly the intended UI and functional goals of each view.
-- Case study informs the wireframes
+- Understanding of the subject/problem solving
+  - Student has made a genuine effort to understand the subject matter and create wireframes that attempt to solve some of the problems presented by the complexity and the breadth of the topic.
+- Takes into account the princles of visual design and the ten usability heuristics
   - Research and consideration from the case study is represented in the wireframes.
-- Critical analysis
-  - Student evaluates the design, UI and UX with clear goals in mind.
-- Presentation
-  - The case study is well written and well presented.
+- Case study/research informs the wireframes
+  - Discoveries and decisions from the case study are evident in the wireframes.
+- Understanding of the tools
+  - Student is comfortable working in Figma and uses the app functionality to create a strong, consistent wireframe.
+- Attention to detail
+ 
+## Submission
+
+There is a shared folder in Figam called "design Project #2". Upon completion, drag your wireframe to this shared folder. If you do not have access or Figma does not allow you to drag your mockup to this folder, please contact me via email **BEFORE** the deadline.

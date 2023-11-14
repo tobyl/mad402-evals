@@ -57,8 +57,8 @@ The wireframe should be:
 
 - Understanding of the subject/problem solving
   - Student has made a genuine effort to understand the subject matter and create wireframes that attempt to solve some of the problems presented by the complexity and the breadth of the topic.
-- Takes into account the princles of visual design and the ten usability heuristics
-  - Research and consideration from the case study is represented in the wireframes.
+- Takes into account the princles of visual design and the ten usability heuristics.
+  - Student pays attention to concepts such as scale and hierarchy in their layouts, and considers aspects such as minimalism and consistency.
 - Case study/research informs the wireframes
   - Discoveries and decisions from the case study are evident in the wireframes.
 - Understanding of the tools

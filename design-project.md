@@ -7,7 +7,7 @@ The goal of the Design Project is to create visual wireframes for the SPENDR app
 - There should be clear, traceable connections from your case study to your wireframes. 
 - Do not submit via Blackboard! Drag your wireframe into the shared team folder called "Design Project #2".
 - This will be a mobile web app, so you can use one of the mobile sized frames in Figma, no need for a desktop or tablet mockup.
-- You have two weeks to complete the wireframes, including 8 hours of class time - you will **NOT** get a good grade if you sit down to complete this assignment on the  
+- You have two weeks to complete the wireframes, including 8 hours of class time - you will **NOT** get a good grade if you sit down to complete this assignment on the due date!  
 
 ## About the project
 

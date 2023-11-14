@@ -19,6 +19,18 @@ Another aspect of this project is the breadth of the topic - a personal finance 
 
 However, this process also mirrors the real world - research, wireframes and mockups are the tools used to determine the viability of a project, **NOT** code.
 
+The wireframe should:
+
+- Be low fidelity - focus on layout and perceived functionality
+- Use the default font only
+- Be black and white (grayscale) only
+- Contain no images or icons (simple icons can be used ONLY when it is the simplest way to communicate a concept)
+- Contain no interactivity (no links, hover effects, etc.)
+
+[Example wireframe #1](https://sketch-cdn.imgix.net/assets/blog/wireframe-medium%402x.png?ixlib=rb-4.1.0&fit=max&w=1920&q=95&auto=format&fm=png&s=e7f208f93a9cc556690fc33d85c51685)
+
+[Example wireframe #2](https://visme.co/blog/wp-content/uploads/2022/01/mobile-app-wireframe-example.jpg)
+
 ## What to include
 
 The breadth of the topic means that students will need to make some decisions when building their wireframes. For example, the views and functionality required to allow users to transfer money are relatively simple, whereas the views required to add a mortgage might be massively complex and require a great deal of research and understanding of the topic. How can you determine what you should include in your wireframes?
@@ -33,17 +45,6 @@ In short, I would not expect to see views that represent the entire process of a
 ## Common pages
 
 Your app should include a home page (a dashboard page, not the app splash screen) and some other common pages, such as profile and settings. However, these can be brief - no need for pages showing every aspect of user management or settings. Consider the primary goal of the wireframe - your boss is probably already familiar with the process users will follow to reset their password. 
-
-The wireframe should be:
-
-- Low fidelity - focus on layout and perceived functionality
-- Default font only
-- Black and white (greyscale) only
-- No images or icons
-- No interactivity (no links, hover effects, etc.)
-
-[Example wireframe #1](https://sketch-cdn.imgix.net/assets/blog/wireframe-medium%402x.png?ixlib=rb-4.1.0&fit=max&w=1920&q=95&auto=format&fm=png&s=e7f208f93a9cc556690fc33d85c51685)
-[Example wireframe #2](https://visme.co/blog/wp-content/uploads/2022/01/mobile-app-wireframe-example.jpg)
 
 ## To get the best possible grade
 

@@ -31,6 +31,8 @@ The wireframe should:
 
 [Example wireframe #2](https://visme.co/blog/wp-content/uploads/2022/01/mobile-app-wireframe-example.jpg)
 
+**Note**: The logo is included in SVG format in this repository. Some students have asked if the logo can be modified - the answer is yes, but the name should remain the same.
+
 ## What to include
 
 The breadth of the topic means that students will need to make some decisions when building their wireframes. For example, the views and functionality required to allow users to transfer money are relatively simple, whereas the views required to add a mortgage might be massively complex and require a great deal of research and understanding of the topic. How can you determine what you should include in your wireframes?

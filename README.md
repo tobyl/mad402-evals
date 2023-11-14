@@ -28,6 +28,8 @@ Each stage represents one evaluation:
 - initial sketches
 - full wireframe
 
+[More on the design project](/design-project.md)
+
 ### Practical exam #2
 
 - high fidelity mockup

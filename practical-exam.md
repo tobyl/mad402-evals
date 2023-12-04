@@ -4,6 +4,7 @@ For the Final Practical exam you will be converting your SPENDR wireframes to hi
 
 - Strong UI - can users quickly find what they need and make changes with a minimal amount of friction?
 - Strong focus on [the 5 principles of visual design](https://www.nngroup.com/articles/principles-visual-design/)
+- Clear association between your wireframe and hi-fidelity mockup
 - Aesthetically pleasing - is your app pleasant to look at and navigate around?
 - Good use of Figma - think of your audience (potentially your boss or client), does the mockup do a good job of demonstrating how the app will work?
 

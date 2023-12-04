@@ -45,3 +45,7 @@ When complete, do **NOT** submit your Figma file - instead, drag the file into t
   - Balance (even distribution of your elements across the layout)
   - Contrast (strong use of colour balance to highlight important areas)
   - Gestalt (looking at your design as the sum of it's parts as well as the individual elements)
+ 
+## Useful links
+
+[Working with colour](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fclick.convertkit-mail.com%2F5qu8kd865ph8uzqd30h7%2Fx0hph6hrz6x4v6b5%2FaHR0cHM6Ly9yZWZhY3RvcmluZ3VpLmNvbS9wcmV2aWV3cy9idWlsZGluZy15b3VyLWNvbG9yLXBhbGV0dGUv&data=05%7C01%7Ctleftly%40stclaircollege.ca%7Cb7c9dd4c0f0c4e05848708dbc4d0b5bb%7Cc986676f9b394d08b4f8a668e0e8c6a5%7C0%7C0%7C638320172911483899%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=G4ApLSVCjhHAhsRKW5Zql%2BTeJkN697NxZaDCH0wB43c%3D&reserved=0)

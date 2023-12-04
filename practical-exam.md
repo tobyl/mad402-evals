@@ -2,7 +2,9 @@
 
 For the Final Practical exam you will be converting your SPENDR wireframes to hi-fidelity mockups.
 
-IMPORTANT: Do **NOT** use the same working file. You should create a duplicate of your wireframes, or simply start a new file and copy/paste elements into it. 
+IMPORTANT: Do **NOT** use the same working file. You should create a duplicate of your wireframes, or simply start a new file and copy/paste elements into it.
+
+When complete, do **NOT** submit your Figma file - instead, drag the file into the shared Figma folder called "Final Practical Exam".
 
 ### Your hi-fidelity mockups should now include:
 

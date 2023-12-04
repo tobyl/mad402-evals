@@ -1,6 +1,11 @@
 # Final Practical Exam
 
-For the Final Practical exam you will be converting your SPENDR wireframes to hi-fidelity mockups.
+For the Final Practical exam you will be converting your SPENDR wireframes to hi-fidelity mockups. Your goals should be:
+
+- Strong UI - can users quickly find what they need and make changes with a minimal amount of friction?
+- Strong focus on [the 5 principles of visual design](https://www.nngroup.com/articles/principles-visual-design/)
+- Aesthetically pleasing - is your app pleasant to look at and navigate around?
+- Good use of Figma - think of your audience (potentially your boss or client), does the mockup do a good job of demonstrating how the app will work?
 
 **IMPORTANT:** Do **NOT** use the same working file. You should create a duplicate of your wireframes, or simply start a new file and copy/paste elements into it.
 
